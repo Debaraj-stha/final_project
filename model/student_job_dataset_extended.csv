@@ -1,0 +1,501 @@
+Skills,Experience (years),Certifications,Degree,Placement Status
+"C++, Web Development, Cybersecurity",3.2,None,Diploma,Not Placed
+"Data Analysis, Cloud Computing",1.0,AWS Certified,Masters,Not Placed
+SQL,2.2,None,Bachelors,Placed
+"SQL, JavaScript, Java",2.8,Google Certified,Diploma,Not Placed
+"SQL, JavaScript",1.0,Google Certified,Diploma,Not Placed
+Cloud Computing,0.2,AWS Certified,Bachelors,Not Placed
+"C++, JavaScript",4.3,Microsoft Certified,Diploma,Not Placed
+"Cybersecurity, JavaScript",1.9,None,Masters,Not Placed
+Machine Learning,1.0,Google Certified,Bachelors,Not Placed
+"Python, Cybersecurity, Cloud Computing",3.4,Google Certified,Diploma,Not Placed
+"Cloud Computing, JavaScript",1.7,Google Certified,Diploma,Not Placed
+Data Analysis,0.5,None,Diploma,Not Placed
+"Machine Learning, Data Analysis",0.1,Google Certified,Masters,Placed
+"Cloud Computing, Web Development, C++",0.2,Microsoft Certified,Diploma,Placed
+Cloud Computing,1.1,AWS Certified,Bachelors,Placed
+C++,1.0,None,Diploma,Not Placed
+SQL,1.1,None,Masters,Not Placed
+"Data Analysis, SQL, Cybersecurity",1.3,None,Masters,Placed
+"C++, Machine Learning",4.2,None,Bachelors,Placed
+Python,2.7,Microsoft Certified,Diploma,Not Placed
+Python,2.7,AWS Certified,Diploma,Placed
+"Cybersecurity, Machine Learning, Cloud Computing",0.6,Google Certified,Diploma,Not Placed
+Data Analysis,3.9,AWS Certified,Masters,Not Placed
+JavaScript,0.9,Microsoft Certified,Diploma,Not Placed
+"Cloud Computing, Data Analysis",2.9,Google Certified,Diploma,Not Placed
+"Cybersecurity, C++, Python",2.7,None,Diploma,Not Placed
+SQL,0.1,None,Diploma,Placed
+"Cloud Computing, Java, SQL",0.2,AWS Certified,Masters,Not Placed
+"Machine Learning, SQL",4.4,AWS Certified,Masters,Not Placed
+"C++, Web Development",3.0,Google Certified,Diploma,Not Placed
+"Java, JavaScript, Python",4.6,Microsoft Certified,Bachelors,Not Placed
+"Web Development, Python",0.8,Google Certified,Bachelors,Placed
+"SQL, JavaScript",1.4,Microsoft Certified,Masters,Not Placed
+"Web Development, Machine Learning, C++",2.7,Google Certified,Diploma,Not Placed
+"Web Development, Data Analysis, Cloud Computing",1.4,Microsoft Certified,Masters,Not Placed
+Cybersecurity,0.5,Google Certified,Bachelors,Placed
+"Machine Learning, C++, Cloud Computing",4.4,Microsoft Certified,Masters,Not Placed
+Machine Learning,0.4,Google Certified,Bachelors,Placed
+"Cybersecurity, JavaScript",2.4,AWS Certified,Masters,Not Placed
+"Web Development, Cloud Computing",3.2,Microsoft Certified,Masters,Not Placed
+"Python, Java",2.4,Google Certified,Diploma,Not Placed
+Web Development,2.3,Microsoft Certified,Bachelors,Not Placed
+"Python, Java, SQL",1.1,Microsoft Certified,Bachelors,Placed
+"Machine Learning, C++, JavaScript",3.5,None,Diploma,Placed
+Machine Learning,3.9,None,Diploma,Placed
+"SQL, C++",4.1,AWS Certified,Bachelors,Not Placed
+SQL,3.0,AWS Certified,Bachelors,Not Placed
+"Cybersecurity, Java, Python",3.3,Google Certified,Masters,Not Placed
+Web Development,2.8,AWS Certified,Diploma,Placed
+"Python, Machine Learning, Web Development",3.1,AWS Certified,Diploma,Not Placed
+JavaScript,1.6,None,Diploma,Placed
+"JavaScript, Java, C++",1.7,AWS Certified,Bachelors,Not Placed
+"C++, Machine Learning",3.7,Google Certified,Diploma,Not Placed
+"C++, Java, Python",3.1,None,Bachelors,Not Placed
+"Cloud Computing, Machine Learning",1.8,Google Certified,Diploma,Not Placed
+Python,2.8,AWS Certified,Bachelors,Not Placed
+"Cloud Computing, Cybersecurity, SQL",4.2,None,Bachelors,Not Placed
+Cloud Computing,4.0,Microsoft Certified,Masters,Not Placed
+"C++, Cloud Computing, Cybersecurity",1.9,Microsoft Certified,Masters,Not Placed
+Machine Learning,1.0,Microsoft Certified,Diploma,Not Placed
+Web Development,0.4,Google Certified,Bachelors,Placed
+Machine Learning,0.5,None,Masters,Placed
+Web Development,2.9,AWS Certified,Diploma,Not Placed
+"Web Development, Machine Learning, Cloud Computing",2.0,AWS Certified,Bachelors,Not Placed
+"Java, C++",0.7,Google Certified,Masters,Not Placed
+Data Analysis,4.6,None,Masters,Not Placed
+"Cloud Computing, SQL, Web Development",4.3,Microsoft Certified,Diploma,Not Placed
+JavaScript,1.3,Microsoft Certified,Masters,Not Placed
+"Cybersecurity, Java, Cloud Computing",1.7,Microsoft Certified,Diploma,Placed
+"SQL, Cloud Computing",3.0,Microsoft Certified,Bachelors,Not Placed
+Cloud Computing,3.2,None,Masters,Not Placed
+"SQL, Cloud Computing, C++",3.1,None,Bachelors,Not Placed
+"Web Development, Cloud Computing",4.5,Microsoft Certified,Diploma,Placed
+Cloud Computing,0.3,Microsoft Certified,Diploma,Placed
+"C++, Cybersecurity, Machine Learning",4.9,Microsoft Certified,Diploma,Not Placed
+"C++, Web Development, JavaScript",1.7,Microsoft Certified,Diploma,Not Placed
+"Python, Java",0.4,Microsoft Certified,Diploma,Not Placed
+Cloud Computing,0.7,AWS Certified,Masters,Not Placed
+"C++, JavaScript, Data Analysis",1.8,Microsoft Certified,Masters,Placed
+JavaScript,4.7,Microsoft Certified,Diploma,Placed
+"JavaScript, Machine Learning, Cloud Computing",0.5,Google Certified,Masters,Placed
+"Cybersecurity, C++",2.1,None,Masters,Not Placed
+"Cybersecurity, SQL",4.5,AWS Certified,Masters,Not Placed
+"Web Development, Cybersecurity",1.8,None,Masters,Not Placed
+SQL,0.5,Microsoft Certified,Masters,Placed
+"Web Development, Data Analysis",0.4,Microsoft Certified,Masters,Placed
+Cloud Computing,3.4,None,Bachelors,Not Placed
+"Machine Learning, Cloud Computing",0.6,Google Certified,Diploma,Placed
+C++,4.6,AWS Certified,Diploma,Not Placed
+"JavaScript, Python, Cloud Computing",4.0,Microsoft Certified,Masters,Placed
+"SQL, Python, Java",1.6,None,Diploma,Not Placed
+Python,2.7,Microsoft Certified,Masters,Not Placed
+"Python, Cybersecurity, Web Development",1.1,None,Diploma,Not Placed
+"Java, SQL",1.6,None,Masters,Placed
+Machine Learning,3.6,None,Bachelors,Placed
+Machine Learning,1.8,Google Certified,Bachelors,Not Placed
+"Data Analysis, Web Development",1.3,None,Bachelors,Not Placed
+"SQL, JavaScript, Cybersecurity",4.0,Microsoft Certified,Diploma,Placed
+Cloud Computing,0.2,Google Certified,Diploma,Not Placed
+"Cloud Computing, Machine Learning, Cybersecurity",1.3,Google Certified,Masters,Not Placed
+Java,3.1,AWS Certified,Masters,Not Placed
+"Cybersecurity, Java",1.0,Google Certified,Bachelors,Not Placed
+Java,0.1,AWS Certified,Bachelors,Placed
+Python,0.6,None,Bachelors,Placed
+"Cloud Computing, SQL, Data Analysis",1.4,AWS Certified,Bachelors,Not Placed
+"Java, Python, SQL",1.7,Google Certified,Diploma,Placed
+"SQL, Cybersecurity, C++",4.8,Google Certified,Diploma,Not Placed
+"Cybersecurity, Java, C++",1.3,AWS Certified,Diploma,Not Placed
+"SQL, Java, Cybersecurity",3.7,AWS Certified,Diploma,Placed
+"C++, JavaScript, Web Development",2.2,AWS Certified,Diploma,Not Placed
+Python,2.1,Google Certified,Masters,Not Placed
+"Cloud Computing, Cybersecurity",1.3,Microsoft Certified,Diploma,Placed
+"Python, C++, Web Development",4.5,Microsoft Certified,Bachelors,Not Placed
+C++,0.2,AWS Certified,Masters,Not Placed
+Data Analysis,4.5,Microsoft Certified,Bachelors,Not Placed
+"Web Development, Cloud Computing",4.6,Google Certified,Masters,Not Placed
+"Web Development, Cybersecurity, Python",2.6,AWS Certified,Bachelors,Placed
+C++,0.7,Google Certified,Masters,Not Placed
+Cybersecurity,1.0,Microsoft Certified,Masters,Placed
+Web Development,2.9,Microsoft Certified,Diploma,Placed
+JavaScript,4.7,AWS Certified,Diploma,Placed
+"Python, Cloud Computing, C++",0.2,Microsoft Certified,Masters,Not Placed
+"Machine Learning, SQL",3.6,None,Masters,Not Placed
+JavaScript,1.0,Google Certified,Masters,Placed
+Machine Learning,3.6,None,Masters,Not Placed
+Java,3.4,Google Certified,Masters,Placed
+"Cloud Computing, Java, SQL",1.7,Microsoft Certified,Bachelors,Not Placed
+Machine Learning,0.6,AWS Certified,Diploma,Not Placed
+"Python, Machine Learning, Web Development",0.5,None,Masters,Placed
+JavaScript,1.0,AWS Certified,Bachelors,Placed
+"Web Development, Java",1.2,None,Diploma,Placed
+"C++, Machine Learning",0.5,None,Masters,Placed
+"Cloud Computing, Machine Learning",2.2,AWS Certified,Masters,Not Placed
+"Web Development, Cloud Computing",2.4,None,Masters,Not Placed
+"Cybersecurity, Python, C++",0.2,None,Masters,Not Placed
+SQL,1.4,AWS Certified,Diploma,Placed
+"SQL, JavaScript, Java",3.2,Microsoft Certified,Bachelors,Not Placed
+"Machine Learning, Python, JavaScript",2.4,Microsoft Certified,Masters,Not Placed
+Python,4.3,AWS Certified,Bachelors,Not Placed
+"Python, Cybersecurity, JavaScript",0.6,AWS Certified,Masters,Not Placed
+Java,0.7,AWS Certified,Bachelors,Placed
+"Web Development, Cloud Computing, Data Analysis",3.4,None,Masters,Placed
+"Web Development, SQL",4.1,None,Diploma,Not Placed
+"Machine Learning, SQL",2.9,Microsoft Certified,Diploma,Not Placed
+"C++, SQL, Python",1.0,None,Masters,Not Placed
+"Python, Cloud Computing, Machine Learning",4.2,AWS Certified,Diploma,Not Placed
+"Web Development, Machine Learning, Java",0.6,Google Certified,Diploma,Not Placed
+"Cloud Computing, JavaScript, Python",0.5,Microsoft Certified,Diploma,Placed
+"Cybersecurity, Machine Learning, Cloud Computing",2.9,Microsoft Certified,Bachelors,Placed
+"Cloud Computing, Python",2.6,None,Masters,Placed
+"Data Analysis, SQL",2.4,Microsoft Certified,Bachelors,Not Placed
+"Java, Cybersecurity, C++",2.0,Microsoft Certified,Bachelors,Not Placed
+C++,1.3,None,Bachelors,Not Placed
+Cloud Computing,3.0,None,Diploma,Placed
+Web Development,0.0,AWS Certified,Masters,Placed
+C++,1.7,Google Certified,Masters,Not Placed
+C++,4.1,AWS Certified,Masters,Not Placed
+Machine Learning,0.5,None,Bachelors,Not Placed
+"Cloud Computing, Machine Learning",3.4,AWS Certified,Masters,Not Placed
+"Data Analysis, Python",4.0,None,Bachelors,Placed
+Data Analysis,4.8,None,Bachelors,Not Placed
+"JavaScript, Cybersecurity",1.5,Google Certified,Bachelors,Not Placed
+Data Analysis,3.5,AWS Certified,Diploma,Not Placed
+Web Development,4.7,Google Certified,Diploma,Placed
+"Cybersecurity, Java, Web Development",1.3,AWS Certified,Masters,Placed
+JavaScript,0.2,None,Diploma,Placed
+"Machine Learning, Python",3.8,None,Bachelors,Not Placed
+Cloud Computing,3.7,AWS Certified,Bachelors,Not Placed
+Java,3.7,Microsoft Certified,Diploma,Not Placed
+"JavaScript, Cloud Computing",3.9,Google Certified,Masters,Not Placed
+Machine Learning,0.1,Google Certified,Masters,Placed
+"Python, Java",1.5,Google Certified,Bachelors,Not Placed
+"JavaScript, SQL",0.2,Microsoft Certified,Masters,Not Placed
+"C++, SQL",1.6,Google Certified,Bachelors,Not Placed
+"Data Analysis, JavaScript",1.9,None,Bachelors,Not Placed
+"Cybersecurity, JavaScript",1.2,None,Masters,Placed
+C++,2.7,AWS Certified,Diploma,Placed
+"SQL, Cybersecurity, C++",2.5,None,Diploma,Placed
+"Cloud Computing, Data Analysis",1.8,AWS Certified,Masters,Placed
+"JavaScript, Cybersecurity",3.2,Microsoft Certified,Bachelors,Placed
+"SQL, Machine Learning, JavaScript",4.8,Google Certified,Bachelors,Not Placed
+"JavaScript, Python",4.1,Microsoft Certified,Diploma,Not Placed
+"Python, Web Development, Data Analysis",0.4,AWS Certified,Diploma,Not Placed
+"C++, Web Development",2.8,Google Certified,Diploma,Not Placed
+"Python, Java",2.6,AWS Certified,Masters,Placed
+JavaScript,1.4,Microsoft Certified,Diploma,Not Placed
+"Data Analysis, Web Development",4.4,Google Certified,Bachelors,Placed
+"Cloud Computing, Web Development",0.1,Google Certified,Diploma,Not Placed
+"C++, Data Analysis",3.8,AWS Certified,Masters,Placed
+Cybersecurity,3.0,AWS Certified,Masters,Not Placed
+"Data Analysis, Cybersecurity, Python",2.2,Microsoft Certified,Diploma,Not Placed
+"Data Analysis, JavaScript",3.8,Google Certified,Bachelors,Not Placed
+"Cloud Computing, Java",4.9,Microsoft Certified,Bachelors,Not Placed
+"Web Development, Machine Learning",1.2,None,Diploma,Not Placed
+"C++, JavaScript, Java",3.8,Microsoft Certified,Diploma,Not Placed
+"Java, SQL",0.8,Google Certified,Diploma,Placed
+"Data Analysis, Machine Learning, Python",0.2,None,Diploma,Placed
+SQL,2.0,Microsoft Certified,Bachelors,Not Placed
+"Data Analysis, Cloud Computing, JavaScript",1.1,Google Certified,Diploma,Not Placed
+SQL,3.3,Google Certified,Diploma,Placed
+"Data Analysis, C++, Cybersecurity",3.6,Microsoft Certified,Masters,Not Placed
+SQL,1.3,None,Masters,Not Placed
+"C++, SQL",0.8,Microsoft Certified,Diploma,Not Placed
+Java,1.9,Microsoft Certified,Bachelors,Not Placed
+"Data Analysis, C++, Web Development",0.8,AWS Certified,Bachelors,Placed
+Machine Learning,2.7,AWS Certified,Diploma,Placed
+JavaScript,4.2,None,Masters,Placed
+"Machine Learning, Java",0.8,Microsoft Certified,Masters,Placed
+"Web Development, Data Analysis",0.8,Google Certified,Masters,Not Placed
+Cloud Computing,4.2,None,Diploma,Placed
+"SQL, Cybersecurity",3.4,None,Masters,Placed
+"C++, Cloud Computing",1.7,AWS Certified,Bachelors,Not Placed
+"C++, SQL, Data Analysis",3.7,Microsoft Certified,Diploma,Not Placed
+"Cloud Computing, JavaScript, Python",4.7,Google Certified,Diploma,Placed
+Cloud Computing,1.3,AWS Certified,Masters,Placed
+Java,2.3,Google Certified,Bachelors,Not Placed
+"Python, Web Development",4.8,AWS Certified,Diploma,Not Placed
+Cybersecurity,0.6,None,Diploma,Not Placed
+"Cloud Computing, Machine Learning",2.5,Microsoft Certified,Diploma,Placed
+"JavaScript, Web Development",4.9,Google Certified,Bachelors,Placed
+"SQL, Machine Learning",4.0,None,Bachelors,Placed
+"Cloud Computing, C++",4.6,Microsoft Certified,Diploma,Not Placed
+"Web Development, Cloud Computing",2.8,None,Bachelors,Not Placed
+Machine Learning,4.2,Microsoft Certified,Masters,Not Placed
+C++,1.7,AWS Certified,Diploma,Placed
+"Data Analysis, Cloud Computing, SQL",1.8,Microsoft Certified,Bachelors,Not Placed
+"Cloud Computing, Python, C++",0.3,Microsoft Certified,Diploma,Not Placed
+"Data Analysis, Cybersecurity",2.5,None,Bachelors,Not Placed
+"SQL, Java",4.9,None,Masters,Not Placed
+SQL,1.1,AWS Certified,Masters,Placed
+"Data Analysis, Web Development, Java",3.8,Google Certified,Diploma,Not Placed
+"C++, Cybersecurity",4.5,AWS Certified,Masters,Not Placed
+"Data Analysis, JavaScript, SQL",4.9,Microsoft Certified,Masters,Not Placed
+"Cybersecurity, Machine Learning",0.8,Microsoft Certified,Diploma,Not Placed
+JavaScript,2.2,None,Bachelors,Not Placed
+"Web Development, Java, C++",4.6,Google Certified,Bachelors,Placed
+"Python, Machine Learning, Java",2.7,Google Certified,Bachelors,Placed
+C++,0.2,Microsoft Certified,Bachelors,Placed
+"Cloud Computing, Web Development, Java",3.0,None,Masters,Not Placed
+"Machine Learning, Web Development, Data Analysis",1.8,AWS Certified,Masters,Not Placed
+"JavaScript, Data Analysis, SQL",1.1,None,Diploma,Placed
+"Web Development, Machine Learning",1.4,Microsoft Certified,Masters,Not Placed
+"C++, Machine Learning, Web Development",3.4,Microsoft Certified,Masters,Not Placed
+"Web Development, JavaScript, Machine Learning",2.8,AWS Certified,Bachelors,Placed
+"Cloud Computing, SQL",3.4,AWS Certified,Bachelors,Placed
+Java,1.4,None,Diploma,Placed
+Python,1.3,Google Certified,Masters,Not Placed
+Machine Learning,4.5,Microsoft Certified,Masters,Not Placed
+C++,1.9,Google Certified,Bachelors,Not Placed
+Cybersecurity,4.5,None,Masters,Not Placed
+"JavaScript, Python",0.9,Microsoft Certified,Masters,Placed
+Java,0.2,AWS Certified,Masters,Placed
+Cybersecurity,1.4,None,Bachelors,Not Placed
+"Machine Learning, Cloud Computing",3.6,None,Bachelors,Not Placed
+"SQL, Machine Learning",0.8,Microsoft Certified,Masters,Placed
+"Java, SQL",2.9,Microsoft Certified,Masters,Placed
+"SQL, C++",2.2,Google Certified,Masters,Not Placed
+Cybersecurity,3.8,AWS Certified,Masters,Not Placed
+"C++, Machine Learning, Cybersecurity",3.6,AWS Certified,Masters,Not Placed
+Java,2.5,None,Masters,Placed
+"Cybersecurity, C++, JavaScript",1.5,None,Masters,Placed
+"Data Analysis, C++, SQL",2.4,Google Certified,Bachelors,Not Placed
+Java,3.5,Google Certified,Masters,Not Placed
+"Python, SQL",1.9,None,Diploma,Not Placed
+"Cybersecurity, Machine Learning",0.6,Google Certified,Bachelors,Not Placed
+"Cybersecurity, Java, C++",1.0,None,Masters,Not Placed
+"Cybersecurity, Machine Learning",0.6,Google Certified,Masters,Not Placed
+"Machine Learning, JavaScript, Cloud Computing",2.6,None,Masters,Not Placed
+"Cloud Computing, SQL, JavaScript",4.7,Google Certified,Bachelors,Not Placed
+"JavaScript, Web Development, C++",3.4,None,Bachelors,Not Placed
+Cloud Computing,4.7,None,Diploma,Placed
+C++,1.4,Google Certified,Bachelors,Placed
+Python,4.6,None,Masters,Not Placed
+Cloud Computing,4.8,Microsoft Certified,Diploma,Placed
+"Data Analysis, Web Development",3.0,Microsoft Certified,Diploma,Not Placed
+"Machine Learning, Cybersecurity, JavaScript",1.9,None,Diploma,Not Placed
+SQL,3.9,Microsoft Certified,Masters,Not Placed
+JavaScript,4.2,AWS Certified,Masters,Not Placed
+Java,3.0,None,Masters,Placed
+"SQL, Cybersecurity, Web Development",1.8,None,Masters,Placed
+"Java, SQL, Python",0.3,Google Certified,Bachelors,Placed
+"Data Analysis, SQL",3.2,None,Bachelors,Not Placed
+"Java, Cybersecurity, Web Development",2.4,AWS Certified,Diploma,Placed
+"Cloud Computing, Web Development",0.2,Google Certified,Diploma,Not Placed
+"Java, C++, Cloud Computing",2.6,Google Certified,Masters,Not Placed
+Java,4.4,None,Bachelors,Not Placed
+"JavaScript, Python",4.5,Microsoft Certified,Diploma,Placed
+"Data Analysis, JavaScript, Web Development",3.2,None,Bachelors,Not Placed
+"Machine Learning, C++",1.4,None,Diploma,Not Placed
+"Python, Cybersecurity, Web Development",0.9,AWS Certified,Bachelors,Placed
+Python,0.6,None,Diploma,Not Placed
+Java,4.4,Google Certified,Masters,Not Placed
+"Data Analysis, Machine Learning",3.4,Microsoft Certified,Diploma,Placed
+"Web Development, SQL",3.2,None,Bachelors,Not Placed
+SQL,3.4,Microsoft Certified,Masters,Not Placed
+Cloud Computing,4.7,Microsoft Certified,Bachelors,Not Placed
+"JavaScript, Cloud Computing, Java",1.1,None,Diploma,Not Placed
+"JavaScript, Python, Web Development",1.3,Microsoft Certified,Masters,Placed
+"Java, JavaScript, Python",3.5,AWS Certified,Bachelors,Placed
+"Cybersecurity, JavaScript",1.2,AWS Certified,Masters,Placed
+"C++, Data Analysis, SQL",0.2,Microsoft Certified,Bachelors,Placed
+"SQL, Java",1.5,Microsoft Certified,Diploma,Not Placed
+"JavaScript, Python",3.6,Microsoft Certified,Masters,Placed
+"Cybersecurity, Data Analysis",2.7,None,Bachelors,Not Placed
+Python,3.3,Microsoft Certified,Masters,Placed
+Machine Learning,2.4,Microsoft Certified,Bachelors,Not Placed
+"Cybersecurity, JavaScript",0.9,AWS Certified,Diploma,Placed
+"SQL, Web Development, Python",1.0,None,Bachelors,Placed
+Cloud Computing,2.9,AWS Certified,Diploma,Not Placed
+"Web Development, Java",1.8,None,Diploma,Not Placed
+"Web Development, Data Analysis, Python",4.2,None,Masters,Not Placed
+"C++, Python, SQL",4.4,None,Bachelors,Placed
+Web Development,2.0,AWS Certified,Masters,Placed
+Cybersecurity,0.4,None,Diploma,Placed
+"Java, JavaScript",3.7,None,Masters,Placed
+"Data Analysis, Web Development, Machine Learning",0.3,Google Certified,Diploma,Not Placed
+"Python, Java",3.7,Google Certified,Diploma,Not Placed
+"JavaScript, Machine Learning",4.9,Google Certified,Masters,Placed
+JavaScript,3.3,None,Diploma,Not Placed
+"Cybersecurity, SQL",3.6,AWS Certified,Diploma,Not Placed
+Java,4.6,Microsoft Certified,Diploma,Placed
+"Data Analysis, SQL",3.8,Microsoft Certified,Masters,Not Placed
+"Cybersecurity, SQL, JavaScript",1.4,AWS Certified,Diploma,Not Placed
+"Data Analysis, Python, Web Development",1.3,Microsoft Certified,Masters,Not Placed
+"Cloud Computing, Python, C++",0.2,AWS Certified,Masters,Placed
+"Web Development, C++, SQL",2.3,AWS Certified,Diploma,Placed
+"Cybersecurity, C++",4.4,AWS Certified,Bachelors,Not Placed
+"Data Analysis, Cloud Computing, Java",0.4,Microsoft Certified,Diploma,Placed
+"Cybersecurity, Web Development, SQL",2.9,Microsoft Certified,Bachelors,Placed
+"Web Development, JavaScript, SQL",1.1,Google Certified,Diploma,Not Placed
+"SQL, Python",3.5,Google Certified,Masters,Not Placed
+Java,0.7,Google Certified,Bachelors,Not Placed
+SQL,3.6,Microsoft Certified,Diploma,Placed
+"Machine Learning, Data Analysis",3.5,AWS Certified,Bachelors,Placed
+Cloud Computing,3.0,Microsoft Certified,Masters,Placed
+C++,0.1,Google Certified,Masters,Not Placed
+"Machine Learning, Python, Cloud Computing",1.5,AWS Certified,Diploma,Placed
+Data Analysis,1.2,Google Certified,Diploma,Not Placed
+"Data Analysis, Cybersecurity, Python",1.3,None,Diploma,Not Placed
+"Web Development, Machine Learning",0.2,None,Diploma,Not Placed
+"Cloud Computing, Java",2.6,None,Masters,Not Placed
+"Cybersecurity, JavaScript",3.8,None,Bachelors,Not Placed
+"Web Development, Python",2.5,None,Bachelors,Placed
+"C++, Cybersecurity, Python",3.1,AWS Certified,Bachelors,Not Placed
+"Data Analysis, Cybersecurity",4.5,AWS Certified,Masters,Not Placed
+Web Development,3.7,None,Bachelors,Placed
+"Java, Web Development, C++",1.3,Google Certified,Diploma,Not Placed
+JavaScript,4.4,Google Certified,Diploma,Placed
+"Machine Learning, Web Development, Data Analysis",3.3,None,Bachelors,Placed
+"Data Analysis, Cybersecurity",1.2,AWS Certified,Masters,Placed
+"Web Development, Cybersecurity, C++",1.4,Microsoft Certified,Bachelors,Placed
+"Java, Cloud Computing, JavaScript",3.7,None,Diploma,Not Placed
+Cloud Computing,1.0,Microsoft Certified,Bachelors,Not Placed
+"Java, JavaScript",1.0,Google Certified,Diploma,Not Placed
+"Cloud Computing, SQL, Web Development",4.4,Google Certified,Diploma,Placed
+"Web Development, Machine Learning",1.4,AWS Certified,Bachelors,Not Placed
+"Web Development, JavaScript",2.4,None,Masters,Placed
+"Java, C++, Machine Learning",4.0,AWS Certified,Diploma,Not Placed
+"Web Development, Cybersecurity",2.2,AWS Certified,Masters,Not Placed
+Data Analysis,4.9,None,Masters,Not Placed
+SQL,0.1,AWS Certified,Bachelors,Not Placed
+JavaScript,2.8,Microsoft Certified,Masters,Not Placed
+Cybersecurity,1.2,Google Certified,Diploma,Placed
+"Web Development, Cybersecurity, C++",2.0,Google Certified,Diploma,Placed
+Cybersecurity,0.2,Google Certified,Diploma,Placed
+Python,1.2,None,Diploma,Placed
+"JavaScript, Cloud Computing",1.5,None,Masters,Not Placed
+"Web Development, Java, Python",5.0,Microsoft Certified,Masters,Placed
+"Java, C++, Cybersecurity",1.5,AWS Certified,Bachelors,Not Placed
+"Java, Python, JavaScript",2.4,None,Diploma,Not Placed
+Cloud Computing,3.4,Microsoft Certified,Bachelors,Not Placed
+"C++, JavaScript, Machine Learning",4.4,Google Certified,Masters,Placed
+"JavaScript, Cloud Computing, SQL",1.8,None,Bachelors,Placed
+"Cybersecurity, C++, Web Development",3.7,AWS Certified,Diploma,Placed
+Cloud Computing,4.9,None,Masters,Not Placed
+JavaScript,3.8,Microsoft Certified,Bachelors,Not Placed
+"Cybersecurity, Machine Learning, JavaScript",1.9,Google Certified,Masters,Not Placed
+SQL,0.5,AWS Certified,Bachelors,Not Placed
+SQL,0.8,None,Bachelors,Not Placed
+"Machine Learning, Python, Cybersecurity",4.4,Google Certified,Diploma,Not Placed
+Cybersecurity,3.2,None,Diploma,Placed
+"Data Analysis, C++, Machine Learning",3.6,AWS Certified,Diploma,Placed
+"SQL, Web Development",4.2,Microsoft Certified,Masters,Not Placed
+Cybersecurity,2.5,None,Diploma,Not Placed
+"C++, Cloud Computing",0.6,Google Certified,Diploma,Placed
+"Cloud Computing, Data Analysis",0.9,AWS Certified,Bachelors,Placed
+JavaScript,3.2,AWS Certified,Bachelors,Placed
+"Java, Cybersecurity",0.8,None,Bachelors,Not Placed
+"Machine Learning, Web Development",3.4,AWS Certified,Masters,Placed
+"Machine Learning, Cybersecurity",4.8,Google Certified,Bachelors,Placed
+Cloud Computing,2.0,Microsoft Certified,Diploma,Not Placed
+SQL,0.6,None,Diploma,Placed
+Cloud Computing,2.9,AWS Certified,Masters,Not Placed
+"JavaScript, Web Development",2.0,Microsoft Certified,Bachelors,Placed
+Machine Learning,1.1,Microsoft Certified,Bachelors,Placed
+Machine Learning,3.1,AWS Certified,Bachelors,Not Placed
+Data Analysis,3.5,Google Certified,Masters,Placed
+"Java, Web Development, Machine Learning",4.6,Google Certified,Diploma,Not Placed
+"Python, JavaScript",3.4,AWS Certified,Diploma,Placed
+"Data Analysis, JavaScript",4.1,Microsoft Certified,Bachelors,Not Placed
+"SQL, Python, Machine Learning",0.5,Google Certified,Masters,Placed
+"Cybersecurity, Python",4.5,Google Certified,Masters,Not Placed
+C++,1.1,Microsoft Certified,Diploma,Not Placed
+"Java, C++",2.6,None,Masters,Not Placed
+"Java, Cloud Computing",4.8,None,Diploma,Not Placed
+"SQL, C++, Data Analysis",1.3,Google Certified,Diploma,Placed
+"Java, Cloud Computing, C++",0.7,Google Certified,Masters,Placed
+Web Development,2.1,AWS Certified,Masters,Not Placed
+"Java, Machine Learning",1.3,Google Certified,Masters,Not Placed
+"Machine Learning, Cloud Computing, Cybersecurity",2.1,Microsoft Certified,Bachelors,Placed
+JavaScript,3.8,None,Bachelors,Not Placed
+"Java, Cloud Computing, Cybersecurity",1.9,Microsoft Certified,Bachelors,Not Placed
+"Data Analysis, Cybersecurity",2.0,AWS Certified,Diploma,Placed
+"Web Development, Cloud Computing",1.5,Microsoft Certified,Masters,Placed
+"Python, Cybersecurity, Web Development",2.1,Microsoft Certified,Diploma,Not Placed
+"Web Development, Java, JavaScript",2.8,AWS Certified,Masters,Not Placed
+"Java, Cloud Computing",4.7,Google Certified,Masters,Not Placed
+"Python, Cybersecurity",3.1,None,Bachelors,Placed
+"Web Development, Python, Java",2.3,Microsoft Certified,Bachelors,Not Placed
+"Python, JavaScript, Cybersecurity",0.0,Microsoft Certified,Masters,Placed
+SQL,2.6,Microsoft Certified,Masters,Placed
+Java,4.4,Google Certified,Bachelors,Not Placed
+Web Development,4.7,Google Certified,Bachelors,Not Placed
+"Cloud Computing, C++",2.8,Google Certified,Masters,Not Placed
+"Cloud Computing, Java",4.7,AWS Certified,Diploma,Not Placed
+"Java, SQL",2.4,None,Masters,Placed
+"SQL, Java",0.6,None,Diploma,Not Placed
+"Java, Machine Learning",2.1,None,Bachelors,Not Placed
+Java,2.0,None,Diploma,Not Placed
+"Cloud Computing, Python, Web Development",2.9,Google Certified,Masters,Placed
+Java,1.3,AWS Certified,Masters,Not Placed
+JavaScript,4.8,Microsoft Certified,Bachelors,Not Placed
+"C++, Data Analysis, Machine Learning",1.9,Google Certified,Masters,Not Placed
+"C++, Data Analysis",0.9,Google Certified,Bachelors,Placed
+"C++, JavaScript, Java",1.6,None,Diploma,Placed
+"JavaScript, Cloud Computing, Java",2.5,Microsoft Certified,Diploma,Placed
+"Data Analysis, Cybersecurity",1.2,None,Masters,Placed
+"JavaScript, Data Analysis, Python",3.3,Microsoft Certified,Diploma,Not Placed
+Cybersecurity,2.9,AWS Certified,Masters,Not Placed
+"Machine Learning, Cybersecurity, Java",0.6,AWS Certified,Bachelors,Placed
+SQL,3.7,AWS Certified,Diploma,Not Placed
+"C++, Python",3.3,Microsoft Certified,Masters,Not Placed
+"Python, JavaScript, Data Analysis",2.4,None,Diploma,Not Placed
+"Cloud Computing, Web Development",1.9,Microsoft Certified,Masters,Not Placed
+Machine Learning,1.6,None,Bachelors,Not Placed
+"Cloud Computing, C++",4.8,Google Certified,Bachelors,Not Placed
+"SQL, Cloud Computing, C++",0.6,None,Diploma,Not Placed
+"SQL, Data Analysis",2.1,Microsoft Certified,Diploma,Not Placed
+JavaScript,2.5,Microsoft Certified,Bachelors,Not Placed
+"JavaScript, Cloud Computing, Machine Learning",2.3,Google Certified,Masters,Not Placed
+"Python, C++, Cloud Computing",4.0,Google Certified,Diploma,Not Placed
+"SQL, Web Development",3.3,AWS Certified,Diploma,Not Placed
+JavaScript,0.8,AWS Certified,Bachelors,Not Placed
+"Python, C++, Cybersecurity",4.0,Microsoft Certified,Diploma,Not Placed
+Web Development,1.4,Microsoft Certified,Masters,Placed
+JavaScript,0.5,Google Certified,Diploma,Placed
+"Data Analysis, Java",0.1,None,Diploma,Not Placed
+"Python, Data Analysis, JavaScript",4.6,AWS Certified,Bachelors,Placed
+"SQL, C++, Python",3.0,None,Masters,Not Placed
+"Web Development, SQL",0.0,AWS Certified,Diploma,Not Placed
+SQL,1.0,AWS Certified,Masters,Not Placed
+Web Development,1.5,Google Certified,Bachelors,Not Placed
+"C++, Python, Web Development",0.4,AWS Certified,Bachelors,Placed
+"C++, Cybersecurity",3.8,AWS Certified,Bachelors,Not Placed
+"Data Analysis, Cybersecurity",4.3,None,Diploma,Placed
+"Machine Learning, C++",3.1,AWS Certified,Bachelors,Not Placed
+"Python, Data Analysis",2.9,Microsoft Certified,Masters,Placed
+SQL,3.3,Microsoft Certified,Diploma,Not Placed
+"Web Development, C++, SQL",2.8,Google Certified,Masters,Placed
+Data Analysis,2.2,Google Certified,Masters,Placed
+"C++, Java, Cybersecurity",0.1,AWS Certified,Masters,Not Placed
+Java,2.7,AWS Certified,Bachelors,Not Placed
+Cloud Computing,5.0,None,Masters,Not Placed
+Python,1.5,Google Certified,Masters,Not Placed
+"Java, SQL",1.4,None,Masters,Placed
+Data Analysis,2.6,None,Masters,Not Placed
+"Web Development, Cybersecurity",2.0,Google Certified,Bachelors,Placed
+Python,3.1,Microsoft Certified,Bachelors,Placed
+"Cloud Computing, SQL, C++",3.0,Microsoft Certified,Masters,Not Placed
+"Web Development, JavaScript, Data Analysis",3.7,AWS Certified,Masters,Placed
+"Machine Learning, Web Development",1.3,None,Masters,Not Placed
+Cloud Computing,2.9,AWS Certified,Masters,Not Placed
+"JavaScript, Python",3.1,Microsoft Certified,Masters,Placed
+"Machine Learning, Cloud Computing, Cybersecurity",1.6,None,Bachelors,Placed
+"C++, Web Development",4.4,Google Certified,Masters,Not Placed
+"SQL, Python",4.9,Google Certified,Masters,Not Placed
+"Cloud Computing, JavaScript, Cybersecurity",0.7,Google Certified,Diploma,Not Placed
+"SQL, Python, C++",0.6,Microsoft Certified,Masters,Not Placed
+"Web Development, Java",3.0,Google Certified,Masters,Not Placed
+"Python, Data Analysis",1.6,AWS Certified,Masters,Not Placed
+"Cloud Computing, Python",3.3,None,Diploma,Not Placed
+Web Development,2.8,AWS Certified,Diploma,Not Placed
+"Cybersecurity, Cloud Computing, Web Development",4.6,None,Masters,Placed
+"Web Development, Data Analysis, Cloud Computing",0.8,Google Certified,Masters,Not Placed
+"Cybersecurity, Machine Learning",4.1,AWS Certified,Diploma,Placed
+"JavaScript, C++, SQL",4.6,Microsoft Certified,Diploma,Not Placed
+"C++, Cybersecurity",0.6,Google Certified,Bachelors,Not Placed
+"Java, JavaScript",2.8,Google Certified,Masters,Not Placed
+"Python, Web Development",4.4,None,Masters,Not Placed
+Data Analysis,4.9,Google Certified,Diploma,Not Placed

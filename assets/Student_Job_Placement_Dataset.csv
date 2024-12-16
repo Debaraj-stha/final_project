@@ -1,0 +1,501 @@
+StudentID,Name,Age,Gender,Degree,Specialization,GPA,PlacementStatus,PlacementCompany,JobRole,PlacementSalary(LPA),InternshipExperience,ExtraCurricularActivities,CommunicationSkills
+S0001,Student_1,20,Female,BBA,Operations,6.88,No,,,,No,Low,Excellent
+S0002,Student_2,21,Male,BBA,International Business,6.32,Yes,Microsoft,Research Scientist,7.2,Yes,Low,Excellent
+S0003,Student_3,20,Male,M.Tech,Structural Engineering,8.27,Yes,Google,Data Analyst,11.6,No,Low,Average
+S0004,Student_4,25,Female,B.Tech,Mechanical,7.03,No,,,,Yes,Low,Average
+S0005,Student_5,22,Male,MBA,Marketing,7.14,No,,,,Yes,High,Excellent
+S0006,Student_6,21,Male,BBA,Entrepreneurship,8.88,No,,,,Yes,High,Average
+S0007,Student_7,21,Female,MBA,HR,7.55,No,,,,No,High,Excellent
+S0008,Student_8,22,Male,MBA,HR,7.23,Yes,Infosys,Consultant,7.1,Yes,Medium,Good
+S0009,Student_9,24,Male,MBA,Finance,8.95,No,,,,Yes,Low,Excellent
+S0010,Student_10,22,Female,BBA,Operations,6.04,No,,,,No,High,Excellent
+S0011,Student_11,23,Male,BBA,Entrepreneurship,7.55,Yes,Accenture,Research Scientist,24.2,Yes,Medium,Excellent
+S0012,Student_12,23,Other,MBA,Finance,7.84,No,,,,Yes,Medium,Excellent
+S0013,Student_13,22,Female,MBA,Marketing,7.96,Yes,Google,Project Manager,6.3,No,High,Good
+S0014,Student_14,25,Other,BBA,Entrepreneurship,6.38,No,,,,No,Medium,Average
+S0015,Student_15,20,Female,BBA,International Business,9.42,Yes,Infosys,Software Engineer,14.2,Yes,Low,Good
+S0016,Student_16,24,Other,B.Sc,Biology,6.46,No,,,,No,Medium,Good
+S0017,Student_17,22,Female,MBA,Marketing,8.51,Yes,Accenture,Data Analyst,14.4,Yes,Low,Good
+S0018,Student_18,20,Female,B.Tech,Civil,7.42,No,,,,Yes,Medium,Excellent
+S0019,Student_19,21,Male,MBA,HR,8.99,Yes,Amazon,Consultant,9.3,Yes,Medium,Excellent
+S0020,Student_20,21,Other,MBA,HR,7.9,Yes,Accenture,Project Manager,16.5,No,Low,Average
+S0021,Student_21,21,Male,M.Tech,AI,6.29,Yes,Accenture,Consultant,15.0,Yes,Medium,Good
+S0022,Student_22,21,Male,B.Tech,Computer Science,8.12,No,,,,Yes,Medium,Good
+S0023,Student_23,21,Female,M.Tech,AI,9.61,Yes,Deloitte,Data Analyst,22.9,No,Medium,Average
+S0024,Student_24,21,Other,M.Tech,Robotics,6.36,Yes,Microsoft,Project Manager,3.4,No,Low,Excellent
+S0025,Student_25,25,Female,B.Sc,Biology,6.0,No,,,,No,Low,Good
+S0026,Student_26,25,Male,B.Sc,Mathematics,8.42,Yes,Accenture,Project Manager,15.4,Yes,Low,Excellent
+S0027,Student_27,22,Other,BBA,Operations,9.99,Yes,Infosys,Project Manager,10.9,No,Medium,Good
+S0028,Student_28,24,Other,M.Tech,Structural Engineering,6.83,No,,,,Yes,Medium,Good
+S0029,Student_29,22,Other,B.Sc,Biology,9.34,Yes,Deloitte,Data Analyst,17.4,No,Medium,Average
+S0030,Student_30,22,Male,B.Sc,Physics,8.19,No,,,,Yes,Low,Average
+S0031,Student_31,21,Female,M.Tech,Structural Engineering,9.83,No,,,,No,High,Average
+S0032,Student_32,21,Male,M.Tech,Robotics,8.69,No,,,,No,Medium,Excellent
+S0033,Student_33,22,Male,M.Tech,Robotics,8.31,Yes,Infosys,Research Scientist,3.1,No,Medium,Good
+S0034,Student_34,22,Other,MBA,HR,9.35,No,,,,No,High,Excellent
+S0035,Student_35,25,Other,B.Sc,Mathematics,6.29,Yes,Wipro,Research Scientist,5.2,No,Low,Good
+S0036,Student_36,22,Other,BBA,Entrepreneurship,7.75,No,,,,Yes,Low,Excellent
+S0037,Student_37,23,Male,B.Tech,Civil,7.55,Yes,TCS,Data Analyst,22.5,No,High,Average
+S0038,Student_38,25,Other,B.Sc,Physics,8.73,Yes,Microsoft,Project Manager,10.0,No,High,Average
+S0039,Student_39,24,Other,MBA,Finance,7.15,Yes,Google,Data Analyst,14.0,Yes,High,Average
+S0040,Student_40,22,Other,BBA,International Business,6.12,Yes,TCS,Software Engineer,20.5,Yes,Low,Excellent
+S0041,Student_41,25,Male,B.Tech,Civil,9.94,Yes,Infosys,Project Manager,5.6,No,Medium,Excellent
+S0042,Student_42,23,Female,BBA,International Business,7.82,Yes,Microsoft,Project Manager,10.4,No,Medium,Excellent
+S0043,Student_43,25,Other,BBA,International Business,6.35,No,,,,Yes,High,Excellent
+S0044,Student_44,21,Male,MBA,Marketing,6.87,No,,,,Yes,High,Average
+S0045,Student_45,21,Female,BBA,Operations,8.86,Yes,Wipro,Research Scientist,8.3,No,Low,Excellent
+S0046,Student_46,25,Female,M.Tech,Robotics,7.55,No,,,,Yes,High,Average
+S0047,Student_47,21,Male,BBA,Operations,9.03,Yes,Accenture,Project Manager,13.9,Yes,Medium,Excellent
+S0048,Student_48,25,Other,BBA,Entrepreneurship,7.28,Yes,Amazon,Software Engineer,10.0,No,High,Average
+S0049,Student_49,21,Other,MBA,Marketing,6.09,Yes,Accenture,Software Engineer,3.7,No,Medium,Good
+S0050,Student_50,24,Other,B.Tech,Electronics,8.06,No,,,,No,Low,Excellent
+S0051,Student_51,25,Male,BBA,Entrepreneurship,6.75,Yes,Google,Software Engineer,11.6,No,High,Good
+S0052,Student_52,20,Female,MBA,Marketing,6.04,No,,,,Yes,Medium,Good
+S0053,Student_53,22,Female,B.Tech,Electronics,9.49,Yes,Amazon,Consultant,24.6,No,High,Average
+S0054,Student_54,22,Female,B.Tech,Civil,6.42,Yes,TCS,Software Engineer,14.0,No,Medium,Excellent
+S0055,Student_55,20,Male,BBA,Entrepreneurship,8.07,No,,,,Yes,High,Good
+S0056,Student_56,25,Other,MBA,HR,6.78,Yes,Deloitte,Data Analyst,20.0,No,Low,Average
+S0057,Student_57,24,Female,B.Tech,Civil,8.66,No,,,,No,Medium,Good
+S0058,Student_58,21,Male,BBA,Operations,6.1,Yes,TCS,Consultant,3.1,Yes,Medium,Good
+S0059,Student_59,22,Female,B.Tech,Civil,9.68,No,,,,Yes,High,Average
+S0060,Student_60,20,Male,B.Tech,Mechanical,7.26,No,,,,Yes,Low,Good
+S0061,Student_61,22,Other,M.Tech,AI,9.22,Yes,Google,Research Scientist,8.3,Yes,Medium,Excellent
+S0062,Student_62,25,Male,B.Tech,Mechanical,7.13,Yes,Wipro,Research Scientist,11.9,Yes,High,Good
+S0063,Student_63,20,Other,B.Tech,Mechanical,8.97,No,,,,No,Low,Average
+S0064,Student_64,24,Female,M.Tech,Robotics,9.54,No,,,,No,Medium,Average
+S0065,Student_65,21,Other,B.Sc,Biology,7.82,Yes,Amazon,Data Analyst,12.2,Yes,Low,Excellent
+S0066,Student_66,21,Male,B.Sc,Mathematics,6.69,No,,,,Yes,High,Good
+S0067,Student_67,23,Male,B.Tech,Electronics,6.79,No,,,,No,Low,Good
+S0068,Student_68,21,Female,MBA,Marketing,8.2,Yes,Accenture,Data Analyst,11.3,Yes,Medium,Excellent
+S0069,Student_69,23,Other,M.Tech,Robotics,9.02,Yes,Google,Research Scientist,16.9,Yes,Medium,Excellent
+S0070,Student_70,24,Male,M.Tech,AI,7.09,No,,,,Yes,Low,Excellent
+S0071,Student_71,20,Female,B.Sc,Biology,9.47,No,,,,Yes,Medium,Excellent
+S0072,Student_72,25,Other,B.Sc,Biology,6.78,Yes,Microsoft,Consultant,13.2,No,High,Excellent
+S0073,Student_73,24,Female,BBA,Entrepreneurship,8.52,Yes,TCS,Consultant,6.1,Yes,High,Good
+S0074,Student_74,25,Female,M.Tech,Robotics,7.39,Yes,Wipro,Consultant,17.9,Yes,Medium,Excellent
+S0075,Student_75,20,Female,MBA,Finance,6.42,No,,,,No,Low,Good
+S0076,Student_76,20,Other,M.Tech,Robotics,9.16,No,,,,No,High,Good
+S0077,Student_77,22,Male,MBA,Marketing,8.06,No,,,,Yes,Medium,Excellent
+S0078,Student_78,21,Male,BBA,International Business,6.26,Yes,Google,Data Analyst,13.8,No,Medium,Good
+S0079,Student_79,22,Other,MBA,Marketing,6.44,Yes,Accenture,Software Engineer,24.8,No,High,Excellent
+S0080,Student_80,22,Female,MBA,Marketing,9.12,No,,,,No,Low,Average
+S0081,Student_81,25,Other,BBA,Entrepreneurship,9.11,No,,,,Yes,Low,Good
+S0082,Student_82,24,Female,BBA,Operations,9.64,No,,,,No,Low,Average
+S0083,Student_83,23,Other,M.Tech,Robotics,7.63,Yes,Accenture,Software Engineer,5.1,Yes,High,Average
+S0084,Student_84,23,Female,B.Sc,Mathematics,9.3,No,,,,No,High,Good
+S0085,Student_85,25,Other,M.Tech,Robotics,7.44,Yes,Google,Software Engineer,9.1,No,High,Average
+S0086,Student_86,23,Female,M.Tech,Structural Engineering,6.88,Yes,Infosys,Consultant,12.8,No,Medium,Good
+S0087,Student_87,24,Female,B.Sc,Mathematics,8.52,No,,,,Yes,Low,Good
+S0088,Student_88,22,Male,B.Sc,Physics,8.78,Yes,TCS,Research Scientist,6.4,Yes,High,Good
+S0089,Student_89,24,Female,MBA,Finance,7.92,No,,,,Yes,High,Average
+S0090,Student_90,20,Other,MBA,Marketing,8.35,Yes,Amazon,Data Analyst,9.9,No,Medium,Good
+S0091,Student_91,24,Female,M.Tech,Robotics,6.74,Yes,Wipro,Software Engineer,23.5,Yes,High,Good
+S0092,Student_92,23,Female,MBA,Finance,9.91,No,,,,No,High,Good
+S0093,Student_93,25,Female,B.Sc,Biology,7.35,No,,,,Yes,Medium,Good
+S0094,Student_94,20,Male,B.Tech,Electronics,8.35,No,,,,Yes,High,Excellent
+S0095,Student_95,23,Other,MBA,HR,7.61,No,,,,No,Low,Excellent
+S0096,Student_96,24,Female,MBA,Finance,8.22,Yes,Microsoft,Research Scientist,18.8,Yes,Low,Good
+S0097,Student_97,20,Male,B.Sc,Mathematics,7.41,No,,,,No,High,Excellent
+S0098,Student_98,23,Female,B.Sc,Biology,7.68,No,,,,No,Low,Average
+S0099,Student_99,24,Female,M.Tech,Structural Engineering,7.85,No,,,,Yes,Medium,Good
+S0100,Student_100,22,Other,MBA,Finance,6.67,No,,,,No,High,Average
+S0101,Student_101,20,Female,B.Tech,Mechanical,9.82,Yes,Amazon,Software Engineer,10.2,Yes,Low,Average
+S0102,Student_102,22,Male,MBA,Finance,9.41,No,,,,No,Low,Average
+S0103,Student_103,25,Female,M.Tech,Robotics,8.41,Yes,Google,Data Analyst,3.7,No,Low,Good
+S0104,Student_104,25,Male,B.Sc,Biology,7.75,No,,,,Yes,Low,Good
+S0105,Student_105,20,Male,M.Tech,Structural Engineering,7.53,Yes,Google,Software Engineer,17.9,Yes,Low,Excellent
+S0106,Student_106,24,Other,B.Tech,Computer Science,8.23,Yes,Amazon,Data Analyst,15.5,Yes,Medium,Excellent
+S0107,Student_107,25,Female,B.Tech,Electronics,9.17,No,,,,Yes,Low,Average
+S0108,Student_108,21,Male,B.Tech,Civil,6.43,Yes,TCS,Research Scientist,19.1,No,High,Average
+S0109,Student_109,25,Female,B.Sc,Mathematics,9.2,Yes,Amazon,Software Engineer,4.4,Yes,Medium,Good
+S0110,Student_110,21,Male,M.Tech,AI,6.18,Yes,TCS,Software Engineer,21.6,Yes,High,Excellent
+S0111,Student_111,20,Other,MBA,Marketing,6.37,Yes,Amazon,Consultant,17.9,Yes,Low,Good
+S0112,Student_112,21,Other,BBA,Entrepreneurship,7.21,No,,,,Yes,Low,Good
+S0113,Student_113,23,Female,B.Sc,Mathematics,9.05,Yes,Wipro,Data Analyst,15.1,Yes,High,Good
+S0114,Student_114,21,Other,M.Tech,Structural Engineering,7.62,Yes,Microsoft,Data Analyst,17.4,Yes,Medium,Average
+S0115,Student_115,25,Female,M.Tech,Robotics,7.71,No,,,,Yes,Medium,Excellent
+S0116,Student_116,23,Female,BBA,Operations,9.09,Yes,Accenture,Project Manager,8.1,Yes,Low,Good
+S0117,Student_117,23,Male,MBA,Marketing,6.36,Yes,Google,Consultant,7.2,Yes,Low,Good
+S0118,Student_118,23,Female,BBA,Entrepreneurship,8.44,Yes,Accenture,Software Engineer,3.3,Yes,Medium,Good
+S0119,Student_119,25,Female,B.Sc,Biology,8.38,Yes,Microsoft,Software Engineer,16.5,No,High,Average
+S0120,Student_120,21,Male,B.Tech,Electronics,8.31,Yes,TCS,Research Scientist,12.2,No,Medium,Good
+S0121,Student_121,22,Male,MBA,Finance,7.16,No,,,,Yes,Medium,Excellent
+S0122,Student_122,25,Female,M.Tech,AI,7.32,No,,,,No,High,Good
+S0123,Student_123,21,Other,BBA,Entrepreneurship,7.42,Yes,Infosys,Project Manager,13.7,Yes,Low,Excellent
+S0124,Student_124,21,Male,B.Tech,Mechanical,9.05,Yes,Microsoft,Research Scientist,23.0,Yes,Low,Excellent
+S0125,Student_125,22,Other,MBA,HR,9.3,Yes,TCS,Project Manager,5.4,No,High,Excellent
+S0126,Student_126,20,Male,MBA,Finance,6.16,No,,,,Yes,High,Excellent
+S0127,Student_127,23,Female,M.Tech,AI,6.75,No,,,,Yes,Low,Average
+S0128,Student_128,21,Female,MBA,HR,8.35,No,,,,Yes,High,Average
+S0129,Student_129,20,Other,B.Tech,Civil,6.98,No,,,,Yes,Low,Good
+S0130,Student_130,23,Female,MBA,Finance,6.44,No,,,,No,Low,Excellent
+S0131,Student_131,21,Other,B.Sc,Physics,6.99,No,,,,Yes,Medium,Excellent
+S0132,Student_132,24,Other,BBA,Entrepreneurship,9.71,Yes,Infosys,Data Analyst,10.6,Yes,Low,Excellent
+S0133,Student_133,25,Other,MBA,HR,6.58,Yes,Deloitte,Consultant,14.3,Yes,High,Average
+S0134,Student_134,24,Male,M.Tech,Robotics,6.62,Yes,Accenture,Data Analyst,7.1,No,High,Good
+S0135,Student_135,22,Female,BBA,International Business,9.96,Yes,Deloitte,Research Scientist,14.4,Yes,Medium,Average
+S0136,Student_136,21,Female,B.Sc,Mathematics,8.52,Yes,Infosys,Project Manager,6.9,No,Medium,Average
+S0137,Student_137,23,Other,M.Tech,Structural Engineering,8.37,Yes,Wipro,Consultant,18.9,Yes,High,Excellent
+S0138,Student_138,25,Female,M.Tech,Structural Engineering,9.58,No,,,,Yes,Low,Good
+S0139,Student_139,24,Male,BBA,Entrepreneurship,9.0,No,,,,No,Low,Good
+S0140,Student_140,22,Male,BBA,Entrepreneurship,9.71,Yes,Amazon,Software Engineer,16.5,Yes,Low,Excellent
+S0141,Student_141,24,Other,MBA,Finance,9.05,Yes,Deloitte,Research Scientist,23.8,Yes,High,Good
+S0142,Student_142,21,Male,MBA,Marketing,8.65,No,,,,No,High,Excellent
+S0143,Student_143,24,Other,B.Tech,Computer Science,7.28,Yes,Infosys,Consultant,23.9,No,Low,Excellent
+S0144,Student_144,23,Female,M.Tech,Robotics,6.2,Yes,Accenture,Research Scientist,20.0,Yes,Medium,Average
+S0145,Student_145,21,Other,B.Tech,Civil,9.91,No,,,,No,Medium,Good
+S0146,Student_146,24,Male,BBA,Operations,9.48,Yes,Accenture,Software Engineer,8.6,Yes,Medium,Good
+S0147,Student_147,20,Male,BBA,Entrepreneurship,7.52,Yes,Microsoft,Project Manager,10.0,No,High,Average
+S0148,Student_148,25,Male,BBA,Entrepreneurship,8.36,Yes,Microsoft,Software Engineer,14.1,No,High,Good
+S0149,Student_149,22,Male,B.Sc,Mathematics,8.84,Yes,Amazon,Project Manager,20.7,No,High,Average
+S0150,Student_150,20,Male,M.Tech,AI,9.9,Yes,TCS,Project Manager,19.6,Yes,High,Average
+S0151,Student_151,25,Other,B.Tech,Computer Science,6.69,Yes,Deloitte,Consultant,3.7,No,Low,Good
+S0152,Student_152,25,Male,MBA,Finance,7.08,Yes,Infosys,Software Engineer,9.3,Yes,High,Excellent
+S0153,Student_153,20,Male,B.Tech,Civil,8.02,No,,,,No,Medium,Good
+S0154,Student_154,20,Female,MBA,HR,9.09,No,,,,Yes,Low,Good
+S0155,Student_155,24,Female,B.Sc,Physics,8.17,Yes,TCS,Project Manager,20.8,Yes,Low,Average
+S0156,Student_156,21,Male,M.Tech,Structural Engineering,7.3,Yes,Microsoft,Data Analyst,14.9,No,High,Average
+S0157,Student_157,21,Male,B.Sc,Physics,7.03,Yes,Amazon,Software Engineer,3.0,Yes,Medium,Good
+S0158,Student_158,22,Male,B.Tech,Computer Science,7.57,No,,,,No,High,Good
+S0159,Student_159,24,Male,B.Sc,Biology,9.86,Yes,Google,Data Analyst,14.1,No,Low,Excellent
+S0160,Student_160,21,Male,B.Sc,Mathematics,6.47,No,,,,Yes,Medium,Excellent
+S0161,Student_161,20,Other,BBA,Operations,9.32,No,,,,Yes,High,Excellent
+S0162,Student_162,25,Male,B.Sc,Physics,7.09,No,,,,Yes,Medium,Good
+S0163,Student_163,24,Female,BBA,Entrepreneurship,6.7,Yes,Google,Project Manager,11.5,Yes,High,Average
+S0164,Student_164,25,Female,BBA,International Business,8.91,Yes,Accenture,Software Engineer,19.2,Yes,Low,Good
+S0165,Student_165,24,Female,BBA,Operations,9.71,Yes,Deloitte,Research Scientist,14.8,No,High,Good
+S0166,Student_166,20,Male,B.Tech,Electronics,9.44,Yes,Infosys,Consultant,10.5,Yes,Low,Good
+S0167,Student_167,22,Male,MBA,HR,7.81,Yes,Amazon,Software Engineer,4.0,Yes,Low,Average
+S0168,Student_168,22,Female,B.Tech,Computer Science,9.0,Yes,Infosys,Project Manager,24.6,Yes,High,Good
+S0169,Student_169,21,Other,B.Sc,Biology,9.22,No,,,,No,Low,Excellent
+S0170,Student_170,23,Male,B.Sc,Physics,6.36,No,,,,No,Medium,Good
+S0171,Student_171,22,Male,B.Sc,Biology,8.14,No,,,,No,Medium,Excellent
+S0172,Student_172,24,Other,M.Tech,Robotics,6.78,Yes,Infosys,Project Manager,23.9,No,Low,Excellent
+S0173,Student_173,23,Male,M.Tech,AI,7.6,Yes,Microsoft,Research Scientist,3.8,No,Low,Average
+S0174,Student_174,21,Other,M.Tech,AI,8.57,Yes,Microsoft,Project Manager,9.6,No,Low,Excellent
+S0175,Student_175,23,Female,BBA,International Business,6.35,No,,,,Yes,Low,Excellent
+S0176,Student_176,21,Female,B.Tech,Mechanical,6.16,Yes,Infosys,Software Engineer,17.2,Yes,Low,Good
+S0177,Student_177,21,Male,B.Sc,Physics,9.73,Yes,Infosys,Consultant,3.4,No,Medium,Average
+S0178,Student_178,21,Female,B.Sc,Biology,6.32,No,,,,Yes,Low,Excellent
+S0179,Student_179,20,Other,MBA,HR,7.56,Yes,Infosys,Research Scientist,24.5,Yes,Low,Good
+S0180,Student_180,22,Male,B.Sc,Mathematics,6.58,Yes,TCS,Software Engineer,16.7,No,Medium,Good
+S0181,Student_181,23,Other,MBA,HR,7.8,Yes,Deloitte,Research Scientist,23.8,Yes,Low,Excellent
+S0182,Student_182,22,Female,M.Tech,AI,6.01,No,,,,Yes,Medium,Excellent
+S0183,Student_183,23,Male,B.Tech,Mechanical,7.06,No,,,,Yes,Medium,Excellent
+S0184,Student_184,25,Female,B.Tech,Mechanical,9.15,No,,,,Yes,Medium,Average
+S0185,Student_185,20,Female,B.Tech,Mechanical,9.36,Yes,Infosys,Project Manager,15.1,Yes,Low,Average
+S0186,Student_186,22,Female,B.Tech,Computer Science,6.69,No,,,,Yes,Medium,Good
+S0187,Student_187,23,Other,MBA,Marketing,7.72,No,,,,Yes,High,Average
+S0188,Student_188,25,Other,M.Tech,AI,9.3,No,,,,Yes,Low,Average
+S0189,Student_189,20,Other,B.Sc,Biology,8.81,No,,,,Yes,Medium,Average
+S0190,Student_190,20,Other,M.Tech,Robotics,8.17,Yes,Microsoft,Research Scientist,8.0,No,High,Average
+S0191,Student_191,20,Female,B.Sc,Biology,9.46,Yes,Deloitte,Research Scientist,20.7,Yes,High,Excellent
+S0192,Student_192,25,Male,B.Tech,Mechanical,9.66,No,,,,No,Medium,Excellent
+S0193,Student_193,25,Female,M.Tech,Robotics,6.11,No,,,,No,Medium,Excellent
+S0194,Student_194,20,Male,M.Tech,Structural Engineering,7.97,Yes,TCS,Consultant,14.8,Yes,High,Average
+S0195,Student_195,22,Male,MBA,Marketing,9.42,No,,,,Yes,High,Average
+S0196,Student_196,24,Male,B.Tech,Electronics,8.37,Yes,Amazon,Software Engineer,17.1,Yes,Low,Excellent
+S0197,Student_197,20,Male,M.Tech,Structural Engineering,6.15,No,,,,No,Low,Excellent
+S0198,Student_198,21,Male,M.Tech,AI,6.05,No,,,,No,Low,Excellent
+S0199,Student_199,24,Female,M.Tech,AI,8.61,No,,,,Yes,Low,Good
+S0200,Student_200,24,Female,MBA,HR,7.97,No,,,,No,Medium,Excellent
+S0201,Student_201,22,Male,BBA,Operations,9.2,No,,,,Yes,Medium,Excellent
+S0202,Student_202,24,Male,B.Sc,Physics,7.15,No,,,,Yes,High,Good
+S0203,Student_203,20,Female,B.Tech,Mechanical,6.01,No,,,,No,Low,Excellent
+S0204,Student_204,21,Male,M.Tech,AI,7.91,Yes,Wipro,Research Scientist,5.1,No,Medium,Good
+S0205,Student_205,20,Other,BBA,Operations,9.71,Yes,Amazon,Consultant,4.6,Yes,High,Average
+S0206,Student_206,22,Male,M.Tech,Robotics,6.17,Yes,Amazon,Software Engineer,6.8,No,Low,Excellent
+S0207,Student_207,25,Male,B.Tech,Civil,6.74,No,,,,Yes,Low,Good
+S0208,Student_208,24,Female,BBA,Entrepreneurship,7.07,Yes,Amazon,Project Manager,6.2,Yes,Medium,Good
+S0209,Student_209,24,Female,MBA,Marketing,8.83,No,,,,Yes,Low,Average
+S0210,Student_210,24,Other,B.Sc,Physics,9.17,No,,,,Yes,Medium,Average
+S0211,Student_211,21,Female,B.Sc,Physics,8.22,No,,,,Yes,Low,Excellent
+S0212,Student_212,20,Other,MBA,Marketing,8.93,Yes,Infosys,Software Engineer,24.6,No,Low,Excellent
+S0213,Student_213,21,Female,BBA,Entrepreneurship,7.67,Yes,Accenture,Software Engineer,10.4,No,High,Excellent
+S0214,Student_214,23,Other,MBA,HR,6.75,Yes,Deloitte,Data Analyst,23.6,No,Low,Good
+S0215,Student_215,20,Male,M.Tech,AI,7.63,No,,,,Yes,High,Good
+S0216,Student_216,22,Male,MBA,Finance,7.54,No,,,,No,High,Good
+S0217,Student_217,20,Other,B.Sc,Physics,8.34,No,,,,No,High,Excellent
+S0218,Student_218,23,Other,B.Tech,Mechanical,9.52,No,,,,Yes,High,Excellent
+S0219,Student_219,20,Female,MBA,HR,9.4,Yes,Deloitte,Software Engineer,4.0,Yes,Low,Excellent
+S0220,Student_220,22,Other,MBA,Finance,9.55,Yes,Infosys,Software Engineer,12.0,No,High,Good
+S0221,Student_221,20,Female,BBA,Operations,9.39,Yes,Accenture,Software Engineer,15.8,No,Medium,Excellent
+S0222,Student_222,24,Other,MBA,Marketing,7.35,Yes,Accenture,Data Analyst,12.9,Yes,Medium,Average
+S0223,Student_223,25,Other,BBA,Operations,6.06,No,,,,No,Medium,Good
+S0224,Student_224,24,Male,MBA,HR,9.7,No,,,,No,High,Average
+S0225,Student_225,23,Other,BBA,International Business,8.39,Yes,Amazon,Project Manager,20.2,No,High,Excellent
+S0226,Student_226,21,Male,B.Tech,Civil,6.41,Yes,Microsoft,Software Engineer,21.2,No,High,Excellent
+S0227,Student_227,21,Female,M.Tech,Robotics,8.31,No,,,,No,Medium,Average
+S0228,Student_228,25,Male,M.Tech,Robotics,6.16,No,,,,No,Low,Average
+S0229,Student_229,21,Female,M.Tech,Robotics,8.16,No,,,,Yes,Medium,Good
+S0230,Student_230,22,Male,B.Sc,Physics,9.28,Yes,Amazon,Software Engineer,9.6,No,Medium,Excellent
+S0231,Student_231,21,Male,M.Tech,Robotics,6.82,Yes,Wipro,Research Scientist,6.4,Yes,Low,Average
+S0232,Student_232,25,Male,BBA,Operations,8.73,No,,,,No,Low,Good
+S0233,Student_233,20,Other,M.Tech,Robotics,8.99,Yes,Deloitte,Project Manager,9.4,No,High,Excellent
+S0234,Student_234,23,Other,MBA,Marketing,8.21,Yes,Deloitte,Data Analyst,5.3,No,Medium,Average
+S0235,Student_235,20,Female,MBA,Marketing,8.79,Yes,Google,Consultant,7.3,Yes,Low,Average
+S0236,Student_236,23,Male,M.Tech,AI,8.55,No,,,,No,Medium,Good
+S0237,Student_237,20,Other,MBA,Finance,6.37,No,,,,No,Medium,Excellent
+S0238,Student_238,22,Male,B.Sc,Biology,8.39,No,,,,Yes,Low,Excellent
+S0239,Student_239,22,Other,B.Tech,Civil,9.61,No,,,,Yes,High,Average
+S0240,Student_240,21,Female,B.Tech,Electronics,7.08,Yes,Accenture,Data Analyst,6.3,Yes,High,Good
+S0241,Student_241,23,Other,B.Sc,Mathematics,7.32,Yes,Accenture,Software Engineer,18.4,Yes,Low,Average
+S0242,Student_242,21,Male,B.Tech,Electronics,7.18,Yes,Google,Data Analyst,15.1,No,High,Average
+S0243,Student_243,25,Other,M.Tech,Robotics,6.72,No,,,,No,Low,Average
+S0244,Student_244,21,Female,BBA,International Business,6.44,No,,,,Yes,Medium,Excellent
+S0245,Student_245,25,Other,B.Tech,Computer Science,7.81,No,,,,No,Medium,Average
+S0246,Student_246,22,Other,MBA,Marketing,8.81,No,,,,No,High,Good
+S0247,Student_247,20,Other,MBA,Marketing,6.5,Yes,Amazon,Data Analyst,17.6,Yes,High,Excellent
+S0248,Student_248,21,Other,BBA,International Business,8.69,Yes,TCS,Data Analyst,15.3,No,Low,Excellent
+S0249,Student_249,20,Male,B.Tech,Mechanical,6.14,Yes,Wipro,Research Scientist,17.6,Yes,Medium,Average
+S0250,Student_250,23,Male,MBA,HR,9.95,Yes,Deloitte,Research Scientist,19.4,No,High,Excellent
+S0251,Student_251,23,Male,MBA,Marketing,6.74,Yes,Infosys,Data Analyst,24.5,Yes,Low,Excellent
+S0252,Student_252,22,Other,MBA,Finance,6.17,No,,,,No,Low,Good
+S0253,Student_253,20,Other,B.Sc,Biology,9.68,No,,,,No,High,Average
+S0254,Student_254,23,Female,BBA,Operations,8.7,No,,,,No,Medium,Average
+S0255,Student_255,22,Male,B.Sc,Biology,7.04,Yes,TCS,Project Manager,5.1,Yes,High,Excellent
+S0256,Student_256,21,Female,B.Tech,Civil,6.05,Yes,Infosys,Consultant,10.0,Yes,Medium,Average
+S0257,Student_257,20,Male,MBA,Finance,7.24,Yes,Google,Data Analyst,6.0,No,Medium,Excellent
+S0258,Student_258,22,Female,MBA,Finance,6.76,No,,,,Yes,High,Average
+S0259,Student_259,21,Other,MBA,Finance,8.08,No,,,,No,Medium,Average
+S0260,Student_260,20,Female,M.Tech,Structural Engineering,7.21,No,,,,No,Low,Average
+S0261,Student_261,23,Other,B.Tech,Electronics,6.4,No,,,,Yes,Medium,Excellent
+S0262,Student_262,24,Female,B.Tech,Civil,9.96,Yes,Amazon,Consultant,15.1,No,High,Excellent
+S0263,Student_263,25,Male,B.Sc,Biology,8.33,No,,,,Yes,High,Average
+S0264,Student_264,21,Other,MBA,HR,6.3,Yes,Accenture,Software Engineer,20.3,No,High,Excellent
+S0265,Student_265,21,Other,BBA,Operations,9.04,No,,,,No,Low,Average
+S0266,Student_266,20,Male,M.Tech,Robotics,6.39,No,,,,No,Low,Good
+S0267,Student_267,23,Female,M.Tech,Robotics,9.53,Yes,TCS,Software Engineer,17.0,No,Low,Average
+S0268,Student_268,24,Other,BBA,Entrepreneurship,7.97,No,,,,Yes,Low,Excellent
+S0269,Student_269,23,Female,BBA,Entrepreneurship,7.08,No,,,,No,High,Average
+S0270,Student_270,20,Other,B.Tech,Computer Science,9.14,Yes,TCS,Consultant,6.1,No,Low,Excellent
+S0271,Student_271,24,Other,B.Tech,Civil,6.59,No,,,,Yes,High,Good
+S0272,Student_272,20,Male,BBA,Entrepreneurship,8.41,Yes,TCS,Data Analyst,4.1,Yes,High,Excellent
+S0273,Student_273,20,Female,B.Tech,Electronics,8.77,Yes,Infosys,Project Manager,14.1,No,Low,Excellent
+S0274,Student_274,24,Male,BBA,Operations,6.9,Yes,Deloitte,Software Engineer,9.7,No,Low,Average
+S0275,Student_275,20,Male,M.Tech,Robotics,7.05,No,,,,No,Low,Good
+S0276,Student_276,24,Male,BBA,Entrepreneurship,7.04,Yes,Deloitte,Project Manager,10.4,Yes,High,Average
+S0277,Student_277,21,Male,B.Tech,Civil,6.07,No,,,,No,High,Average
+S0278,Student_278,21,Male,BBA,Operations,8.09,Yes,Accenture,Consultant,10.1,No,Low,Good
+S0279,Student_279,21,Male,M.Tech,AI,6.02,No,,,,No,High,Average
+S0280,Student_280,22,Other,MBA,Marketing,8.0,Yes,Amazon,Research Scientist,12.8,No,Medium,Good
+S0281,Student_281,25,Female,MBA,Marketing,7.96,No,,,,No,Medium,Excellent
+S0282,Student_282,20,Male,BBA,International Business,9.73,No,,,,No,High,Good
+S0283,Student_283,23,Female,BBA,International Business,6.73,Yes,Wipro,Software Engineer,11.5,Yes,Low,Average
+S0284,Student_284,21,Other,B.Sc,Physics,8.08,No,,,,No,Low,Excellent
+S0285,Student_285,23,Other,MBA,Finance,8.74,Yes,Wipro,Consultant,22.7,No,High,Good
+S0286,Student_286,24,Male,M.Tech,Structural Engineering,6.7,Yes,Google,Project Manager,17.7,Yes,Medium,Good
+S0287,Student_287,23,Male,M.Tech,AI,7.48,Yes,Wipro,Software Engineer,13.8,Yes,High,Average
+S0288,Student_288,21,Male,B.Sc,Mathematics,8.64,Yes,Microsoft,Consultant,23.2,No,Low,Average
+S0289,Student_289,21,Male,B.Sc,Physics,6.21,Yes,Accenture,Consultant,22.0,Yes,Medium,Average
+S0290,Student_290,22,Other,M.Tech,Structural Engineering,6.78,Yes,Accenture,Research Scientist,19.9,No,Medium,Excellent
+S0291,Student_291,21,Male,MBA,Finance,9.75,No,,,,Yes,Low,Average
+S0292,Student_292,21,Other,B.Tech,Mechanical,9.0,No,,,,No,Low,Good
+S0293,Student_293,22,Male,M.Tech,AI,8.84,No,,,,Yes,Medium,Good
+S0294,Student_294,25,Male,B.Sc,Biology,7.05,No,,,,Yes,High,Good
+S0295,Student_295,20,Female,M.Tech,AI,9.04,Yes,Infosys,Consultant,5.5,Yes,High,Excellent
+S0296,Student_296,24,Other,BBA,Operations,9.28,Yes,Deloitte,Software Engineer,15.8,No,High,Good
+S0297,Student_297,20,Other,MBA,Finance,9.91,No,,,,No,High,Average
+S0298,Student_298,20,Male,BBA,Operations,8.71,No,,,,Yes,Medium,Good
+S0299,Student_299,23,Male,MBA,HR,7.29,No,,,,No,High,Good
+S0300,Student_300,22,Female,M.Tech,Structural Engineering,6.35,No,,,,Yes,Low,Excellent
+S0301,Student_301,20,Other,M.Tech,Robotics,9.6,No,,,,No,High,Average
+S0302,Student_302,22,Male,BBA,Operations,6.64,No,,,,No,Low,Good
+S0303,Student_303,24,Female,BBA,International Business,7.99,Yes,Microsoft,Data Analyst,16.4,Yes,Low,Good
+S0304,Student_304,20,Female,B.Sc,Mathematics,9.34,Yes,Deloitte,Software Engineer,10.9,Yes,High,Good
+S0305,Student_305,21,Female,M.Tech,Structural Engineering,8.64,Yes,TCS,Data Analyst,5.0,No,High,Good
+S0306,Student_306,20,Female,B.Tech,Mechanical,6.92,Yes,Amazon,Research Scientist,6.5,No,Medium,Excellent
+S0307,Student_307,24,Male,MBA,Finance,9.92,Yes,Google,Project Manager,21.6,Yes,Medium,Average
+S0308,Student_308,24,Other,B.Sc,Mathematics,8.53,Yes,Microsoft,Data Analyst,19.0,No,Medium,Excellent
+S0309,Student_309,23,Other,B.Tech,Electronics,7.29,Yes,Deloitte,Consultant,6.4,No,High,Good
+S0310,Student_310,22,Male,M.Tech,AI,9.8,No,,,,No,Medium,Excellent
+S0311,Student_311,25,Female,MBA,HR,7.59,No,,,,Yes,High,Excellent
+S0312,Student_312,24,Male,B.Sc,Physics,8.14,No,,,,No,Low,Good
+S0313,Student_313,24,Female,BBA,International Business,9.67,Yes,Amazon,Software Engineer,16.2,No,Low,Excellent
+S0314,Student_314,20,Female,MBA,Marketing,8.53,No,,,,No,High,Good
+S0315,Student_315,22,Male,BBA,International Business,7.88,No,,,,No,Medium,Good
+S0316,Student_316,21,Female,B.Sc,Physics,9.73,No,,,,Yes,Low,Excellent
+S0317,Student_317,25,Male,BBA,International Business,7.85,Yes,Accenture,Data Analyst,19.9,Yes,Medium,Excellent
+S0318,Student_318,24,Male,BBA,Operations,9.67,No,,,,No,Low,Good
+S0319,Student_319,21,Other,BBA,International Business,6.46,Yes,Deloitte,Project Manager,24.1,No,Medium,Excellent
+S0320,Student_320,20,Male,BBA,International Business,7.2,No,,,,No,High,Average
+S0321,Student_321,25,Other,MBA,HR,6.31,Yes,Amazon,Project Manager,24.2,No,Medium,Good
+S0322,Student_322,22,Female,B.Tech,Civil,9.58,No,,,,Yes,High,Average
+S0323,Student_323,22,Female,B.Sc,Biology,7.6,Yes,Microsoft,Research Scientist,9.9,Yes,Low,Average
+S0324,Student_324,20,Other,M.Tech,Robotics,8.61,Yes,Google,Software Engineer,15.3,Yes,Low,Excellent
+S0325,Student_325,20,Other,M.Tech,AI,7.17,No,,,,Yes,Medium,Excellent
+S0326,Student_326,24,Male,M.Tech,Structural Engineering,7.93,No,,,,Yes,Low,Average
+S0327,Student_327,23,Female,M.Tech,Structural Engineering,6.06,No,,,,No,High,Good
+S0328,Student_328,21,Male,B.Tech,Civil,8.29,No,,,,No,Low,Excellent
+S0329,Student_329,25,Female,M.Tech,Structural Engineering,9.17,Yes,Wipro,Research Scientist,7.0,Yes,Medium,Good
+S0330,Student_330,24,Male,M.Tech,Robotics,9.18,No,,,,Yes,High,Good
+S0331,Student_331,20,Other,BBA,Entrepreneurship,9.21,Yes,Deloitte,Research Scientist,20.6,No,Low,Good
+S0332,Student_332,22,Female,MBA,Marketing,6.89,No,,,,No,High,Excellent
+S0333,Student_333,24,Female,MBA,Finance,8.15,Yes,Google,Project Manager,16.5,No,Low,Good
+S0334,Student_334,20,Other,B.Tech,Electronics,6.64,No,,,,No,High,Good
+S0335,Student_335,25,Other,MBA,Marketing,6.89,Yes,Microsoft,Data Analyst,23.8,No,Low,Excellent
+S0336,Student_336,25,Male,B.Sc,Physics,9.78,Yes,Microsoft,Consultant,5.5,Yes,Low,Average
+S0337,Student_337,25,Other,B.Tech,Mechanical,6.27,Yes,Deloitte,Consultant,11.8,Yes,High,Good
+S0338,Student_338,20,Female,M.Tech,AI,9.29,Yes,TCS,Research Scientist,12.2,No,High,Excellent
+S0339,Student_339,24,Male,BBA,International Business,6.32,No,,,,Yes,Medium,Excellent
+S0340,Student_340,23,Male,B.Sc,Biology,6.76,Yes,Google,Research Scientist,8.9,Yes,Low,Average
+S0341,Student_341,21,Male,M.Tech,Robotics,9.6,Yes,TCS,Consultant,11.7,Yes,High,Excellent
+S0342,Student_342,21,Other,MBA,Marketing,6.32,No,,,,No,High,Good
+S0343,Student_343,20,Female,B.Sc,Biology,6.66,Yes,Accenture,Software Engineer,14.8,Yes,Low,Good
+S0344,Student_344,22,Other,MBA,Marketing,9.04,Yes,Deloitte,Project Manager,8.3,No,Low,Excellent
+S0345,Student_345,21,Other,B.Tech,Computer Science,7.93,No,,,,Yes,High,Excellent
+S0346,Student_346,24,Male,BBA,Entrepreneurship,8.09,Yes,Infosys,Project Manager,20.2,Yes,Medium,Good
+S0347,Student_347,23,Female,BBA,Entrepreneurship,6.05,No,,,,No,Low,Good
+S0348,Student_348,21,Female,B.Tech,Civil,7.8,Yes,Microsoft,Research Scientist,9.9,Yes,Medium,Average
+S0349,Student_349,20,Male,B.Sc,Biology,6.75,No,,,,Yes,Medium,Good
+S0350,Student_350,24,Other,BBA,International Business,8.2,No,,,,No,Low,Average
+S0351,Student_351,23,Female,MBA,Marketing,7.5,No,,,,Yes,Low,Good
+S0352,Student_352,22,Other,B.Tech,Electronics,8.87,Yes,Wipro,Research Scientist,3.1,Yes,Low,Excellent
+S0353,Student_353,21,Other,B.Tech,Civil,8.9,No,,,,Yes,Medium,Excellent
+S0354,Student_354,23,Male,MBA,Finance,6.02,Yes,Amazon,Research Scientist,18.4,No,High,Good
+S0355,Student_355,20,Female,MBA,Finance,8.97,Yes,Amazon,Software Engineer,6.2,No,Medium,Excellent
+S0356,Student_356,20,Other,BBA,Operations,8.46,Yes,TCS,Data Analyst,3.9,No,Low,Average
+S0357,Student_357,20,Male,B.Sc,Biology,9.06,Yes,Microsoft,Data Analyst,7.2,No,Medium,Good
+S0358,Student_358,20,Other,MBA,Finance,6.84,No,,,,No,Medium,Excellent
+S0359,Student_359,22,Other,B.Sc,Mathematics,8.85,No,,,,Yes,Low,Excellent
+S0360,Student_360,21,Female,B.Sc,Biology,8.64,No,,,,Yes,Medium,Good
+S0361,Student_361,21,Female,MBA,HR,7.42,Yes,Deloitte,Consultant,12.0,Yes,High,Excellent
+S0362,Student_362,20,Female,B.Tech,Computer Science,9.49,Yes,Deloitte,Consultant,11.3,Yes,Low,Excellent
+S0363,Student_363,22,Other,MBA,Finance,7.59,Yes,Infosys,Data Analyst,19.5,No,High,Excellent
+S0364,Student_364,20,Female,M.Tech,Robotics,8.22,No,,,,Yes,Low,Good
+S0365,Student_365,23,Female,M.Tech,Robotics,8.82,No,,,,No,Medium,Good
+S0366,Student_366,23,Male,BBA,Entrepreneurship,7.1,Yes,Wipro,Consultant,20.2,Yes,High,Excellent
+S0367,Student_367,21,Male,BBA,International Business,6.7,Yes,Deloitte,Project Manager,19.5,Yes,High,Good
+S0368,Student_368,20,Other,M.Tech,AI,6.25,No,,,,Yes,Medium,Good
+S0369,Student_369,23,Male,B.Tech,Electronics,6.1,No,,,,No,High,Average
+S0370,Student_370,20,Female,B.Tech,Electronics,7.45,No,,,,Yes,High,Excellent
+S0371,Student_371,23,Female,M.Tech,Robotics,8.05,Yes,Microsoft,Software Engineer,16.2,Yes,Medium,Average
+S0372,Student_372,21,Male,BBA,Entrepreneurship,6.61,No,,,,Yes,Low,Excellent
+S0373,Student_373,20,Male,BBA,Entrepreneurship,6.63,Yes,Deloitte,Software Engineer,17.1,Yes,High,Good
+S0374,Student_374,20,Male,B.Tech,Mechanical,6.51,No,,,,Yes,Medium,Average
+S0375,Student_375,21,Female,B.Tech,Electronics,8.9,No,,,,Yes,High,Good
+S0376,Student_376,23,Female,B.Tech,Civil,9.67,Yes,Infosys,Research Scientist,8.7,Yes,Low,Good
+S0377,Student_377,21,Other,BBA,International Business,9.03,No,,,,Yes,Medium,Good
+S0378,Student_378,22,Other,M.Tech,AI,9.83,Yes,Wipro,Software Engineer,5.8,Yes,High,Average
+S0379,Student_379,21,Female,B.Sc,Biology,8.41,Yes,Wipro,Research Scientist,15.4,No,High,Good
+S0380,Student_380,22,Male,B.Tech,Civil,6.06,Yes,Amazon,Data Analyst,12.4,No,Low,Average
+S0381,Student_381,21,Male,BBA,Entrepreneurship,6.37,No,,,,Yes,Low,Excellent
+S0382,Student_382,20,Male,MBA,Finance,8.8,Yes,Wipro,Data Analyst,23.5,No,Low,Excellent
+S0383,Student_383,23,Male,B.Tech,Electronics,7.04,No,,,,No,High,Good
+S0384,Student_384,21,Other,BBA,International Business,9.82,Yes,Accenture,Research Scientist,18.7,No,High,Average
+S0385,Student_385,20,Female,B.Sc,Biology,6.98,No,,,,Yes,Low,Average
+S0386,Student_386,24,Other,B.Tech,Mechanical,8.13,Yes,Amazon,Research Scientist,21.7,No,Low,Average
+S0387,Student_387,25,Other,MBA,Finance,7.67,Yes,Amazon,Project Manager,6.5,Yes,Medium,Excellent
+S0388,Student_388,21,Other,BBA,Operations,8.14,No,,,,No,Medium,Excellent
+S0389,Student_389,25,Female,BBA,Operations,9.52,No,,,,No,Medium,Excellent
+S0390,Student_390,22,Female,M.Tech,AI,7.84,Yes,Deloitte,Software Engineer,7.6,Yes,High,Excellent
+S0391,Student_391,24,Female,B.Sc,Physics,6.75,No,,,,Yes,High,Average
+S0392,Student_392,24,Female,M.Tech,Robotics,8.07,Yes,Accenture,Data Analyst,18.8,Yes,Medium,Excellent
+S0393,Student_393,24,Female,B.Tech,Mechanical,6.8,No,,,,No,Low,Average
+S0394,Student_394,20,Female,BBA,Operations,6.33,Yes,Wipro,Project Manager,19.2,No,High,Good
+S0395,Student_395,22,Male,BBA,Entrepreneurship,6.45,No,,,,Yes,High,Excellent
+S0396,Student_396,25,Female,MBA,HR,6.36,Yes,Google,Software Engineer,24.9,No,Medium,Excellent
+S0397,Student_397,20,Female,M.Tech,Structural Engineering,7.95,Yes,Google,Project Manager,10.1,Yes,High,Excellent
+S0398,Student_398,24,Other,MBA,Marketing,9.17,Yes,Infosys,Software Engineer,11.1,No,Medium,Average
+S0399,Student_399,23,Other,MBA,Marketing,9.43,No,,,,No,High,Good
+S0400,Student_400,20,Female,B.Tech,Mechanical,8.93,No,,,,No,High,Excellent
+S0401,Student_401,25,Other,BBA,Operations,7.89,Yes,Accenture,Consultant,5.5,Yes,Medium,Good
+S0402,Student_402,25,Female,B.Tech,Mechanical,8.37,Yes,Accenture,Software Engineer,16.3,No,Low,Excellent
+S0403,Student_403,23,Female,M.Tech,Robotics,7.16,No,,,,Yes,Medium,Average
+S0404,Student_404,25,Female,B.Sc,Mathematics,9.72,Yes,Accenture,Consultant,22.4,No,High,Excellent
+S0405,Student_405,23,Other,B.Sc,Biology,7.72,No,,,,Yes,Medium,Average
+S0406,Student_406,24,Other,B.Sc,Physics,9.37,Yes,Microsoft,Research Scientist,10.5,Yes,Low,Excellent
+S0407,Student_407,23,Other,B.Sc,Biology,6.35,No,,,,No,Medium,Excellent
+S0408,Student_408,22,Female,MBA,Marketing,8.01,No,,,,No,High,Good
+S0409,Student_409,21,Female,M.Tech,Robotics,9.39,Yes,TCS,Project Manager,16.2,Yes,Medium,Average
+S0410,Student_410,20,Female,B.Sc,Biology,7.55,No,,,,Yes,Medium,Good
+S0411,Student_411,23,Male,M.Tech,Robotics,8.98,No,,,,No,Medium,Average
+S0412,Student_412,20,Other,MBA,HR,9.97,No,,,,Yes,High,Excellent
+S0413,Student_413,25,Male,B.Tech,Computer Science,6.21,Yes,Amazon,Research Scientist,13.3,No,High,Excellent
+S0414,Student_414,20,Other,B.Tech,Civil,6.88,No,,,,Yes,High,Good
+S0415,Student_415,24,Female,MBA,Marketing,6.29,No,,,,Yes,High,Excellent
+S0416,Student_416,25,Male,B.Sc,Physics,8.42,Yes,TCS,Data Analyst,23.0,Yes,Medium,Excellent
+S0417,Student_417,25,Other,BBA,International Business,9.04,No,,,,Yes,High,Good
+S0418,Student_418,23,Other,BBA,Operations,7.05,No,,,,Yes,Medium,Average
+S0419,Student_419,20,Male,M.Tech,Structural Engineering,8.53,No,,,,No,High,Average
+S0420,Student_420,21,Other,B.Sc,Physics,7.41,No,,,,No,Low,Average
+S0421,Student_421,23,Male,B.Sc,Biology,6.89,No,,,,No,Medium,Average
+S0422,Student_422,21,Other,BBA,Entrepreneurship,6.63,No,,,,No,High,Average
+S0423,Student_423,20,Male,B.Tech,Computer Science,6.5,No,,,,No,Low,Excellent
+S0424,Student_424,22,Male,B.Sc,Physics,6.17,Yes,Amazon,Software Engineer,15.4,No,High,Excellent
+S0425,Student_425,22,Male,B.Sc,Mathematics,9.01,No,,,,No,Low,Excellent
+S0426,Student_426,21,Male,BBA,Entrepreneurship,6.72,Yes,TCS,Consultant,22.6,No,Medium,Good
+S0427,Student_427,20,Female,M.Tech,AI,7.47,Yes,Deloitte,Data Analyst,8.8,Yes,Medium,Good
+S0428,Student_428,21,Male,M.Tech,Robotics,8.99,No,,,,Yes,Medium,Excellent
+S0429,Student_429,21,Female,BBA,International Business,7.91,Yes,Wipro,Software Engineer,7.1,No,Medium,Good
+S0430,Student_430,25,Male,B.Tech,Mechanical,9.01,No,,,,Yes,Low,Average
+S0431,Student_431,20,Female,B.Sc,Biology,6.47,Yes,Microsoft,Project Manager,7.5,Yes,High,Average
+S0432,Student_432,22,Female,B.Sc,Physics,6.47,Yes,Infosys,Data Analyst,17.4,Yes,Low,Excellent
+S0433,Student_433,25,Other,B.Sc,Biology,9.02,Yes,Microsoft,Project Manager,13.6,Yes,Medium,Excellent
+S0434,Student_434,20,Male,MBA,Marketing,6.07,Yes,TCS,Data Analyst,22.5,No,High,Good
+S0435,Student_435,22,Other,B.Tech,Civil,6.78,Yes,Infosys,Project Manager,18.1,No,Medium,Excellent
+S0436,Student_436,21,Other,B.Sc,Physics,6.18,Yes,TCS,Consultant,21.7,Yes,Low,Excellent
+S0437,Student_437,21,Male,BBA,Operations,8.17,Yes,Deloitte,Project Manager,21.8,No,Low,Good
+S0438,Student_438,24,Other,BBA,International Business,9.27,No,,,,Yes,Low,Excellent
+S0439,Student_439,23,Male,MBA,Finance,9.46,No,,,,Yes,High,Average
+S0440,Student_440,25,Female,MBA,Finance,6.7,No,,,,No,Medium,Average
+S0441,Student_441,24,Female,MBA,Marketing,9.35,No,,,,No,Medium,Excellent
+S0442,Student_442,22,Female,M.Tech,Robotics,7.37,Yes,Microsoft,Consultant,12.7,No,Low,Average
+S0443,Student_443,23,Female,B.Sc,Biology,9.69,No,,,,No,Low,Average
+S0444,Student_444,25,Male,M.Tech,Structural Engineering,6.68,Yes,Google,Project Manager,15.2,No,Low,Excellent
+S0445,Student_445,22,Female,BBA,Entrepreneurship,7.62,No,,,,Yes,Medium,Excellent
+S0446,Student_446,21,Male,M.Tech,Structural Engineering,7.79,No,,,,Yes,Low,Good
+S0447,Student_447,25,Female,B.Tech,Mechanical,9.86,No,,,,No,High,Good
+S0448,Student_448,20,Female,B.Sc,Physics,9.67,Yes,TCS,Software Engineer,13.6,No,High,Good
+S0449,Student_449,20,Female,MBA,Marketing,7.86,Yes,Microsoft,Project Manager,20.2,Yes,High,Good
+S0450,Student_450,24,Male,M.Tech,AI,9.21,Yes,Amazon,Consultant,7.7,No,Medium,Excellent
+S0451,Student_451,21,Male,BBA,International Business,6.49,No,,,,Yes,Low,Average
+S0452,Student_452,21,Male,MBA,Finance,8.7,No,,,,No,Medium,Good
+S0453,Student_453,23,Female,MBA,HR,7.45,Yes,Deloitte,Research Scientist,6.1,Yes,High,Average
+S0454,Student_454,25,Female,MBA,Finance,7.71,No,,,,No,Medium,Good
+S0455,Student_455,22,Other,B.Tech,Electronics,8.7,Yes,Amazon,Data Analyst,17.9,Yes,High,Good
+S0456,Student_456,21,Male,MBA,Marketing,6.63,Yes,Google,Research Scientist,5.5,Yes,High,Excellent
+S0457,Student_457,21,Female,BBA,Operations,8.47,No,,,,Yes,Medium,Good
+S0458,Student_458,20,Female,B.Sc,Biology,9.47,Yes,Wipro,Data Analyst,9.3,No,Medium,Average
+S0459,Student_459,23,Other,BBA,Operations,9.69,Yes,Accenture,Research Scientist,15.5,No,Medium,Average
+S0460,Student_460,21,Female,B.Sc,Biology,7.65,No,,,,Yes,High,Average
+S0461,Student_461,21,Female,BBA,Entrepreneurship,8.83,Yes,Deloitte,Research Scientist,12.7,Yes,High,Excellent
+S0462,Student_462,23,Male,B.Tech,Mechanical,6.59,No,,,,Yes,High,Excellent
+S0463,Student_463,24,Female,B.Sc,Biology,6.51,Yes,Infosys,Research Scientist,7.4,Yes,Low,Average
+S0464,Student_464,21,Other,B.Sc,Biology,9.14,No,,,,No,Medium,Average
+S0465,Student_465,25,Other,M.Tech,Structural Engineering,9.68,No,,,,No,Medium,Excellent
+S0466,Student_466,21,Male,B.Tech,Electronics,7.88,No,,,,Yes,High,Good
+S0467,Student_467,21,Male,B.Tech,Civil,8.11,Yes,Accenture,Consultant,11.6,Yes,Medium,Average
+S0468,Student_468,23,Female,B.Tech,Civil,9.18,Yes,Microsoft,Data Analyst,17.7,Yes,Low,Excellent
+S0469,Student_469,22,Other,B.Tech,Computer Science,7.46,No,,,,No,Medium,Average
+S0470,Student_470,20,Other,M.Tech,Structural Engineering,8.05,Yes,TCS,Research Scientist,8.5,Yes,Medium,Average
+S0471,Student_471,24,Other,BBA,Operations,9.55,Yes,TCS,Software Engineer,20.3,Yes,Medium,Average
+S0472,Student_472,22,Other,M.Tech,AI,9.74,No,,,,Yes,High,Good
+S0473,Student_473,20,Other,M.Tech,Structural Engineering,7.18,No,,,,Yes,Low,Average
+S0474,Student_474,24,Male,B.Sc,Biology,6.32,No,,,,Yes,High,Excellent
+S0475,Student_475,22,Female,BBA,Entrepreneurship,7.61,Yes,Infosys,Consultant,24.4,No,Medium,Excellent
+S0476,Student_476,24,Female,M.Tech,Structural Engineering,8.27,No,,,,No,Low,Excellent
+S0477,Student_477,20,Other,MBA,Finance,9.97,No,,,,Yes,Low,Average
+S0478,Student_478,24,Female,MBA,Finance,6.95,Yes,Google,Software Engineer,6.9,Yes,High,Excellent
+S0479,Student_479,21,Female,M.Tech,AI,8.39,No,,,,Yes,Low,Excellent
+S0480,Student_480,24,Female,BBA,Entrepreneurship,7.75,Yes,TCS,Project Manager,24.6,No,Medium,Average
+S0481,Student_481,23,Female,MBA,Marketing,7.4,Yes,Deloitte,Data Analyst,19.5,No,Low,Excellent
+S0482,Student_482,25,Male,B.Tech,Electronics,7.34,No,,,,No,Medium,Excellent
+S0483,Student_483,23,Male,B.Tech,Civil,9.58,Yes,Amazon,Research Scientist,14.5,No,High,Average
+S0484,Student_484,20,Other,B.Tech,Electronics,6.76,No,,,,Yes,Medium,Good
+S0485,Student_485,22,Male,B.Sc,Physics,6.52,Yes,Deloitte,Software Engineer,9.8,Yes,High,Excellent
+S0486,Student_486,21,Male,BBA,International Business,6.22,No,,,,Yes,Medium,Average
+S0487,Student_487,20,Female,B.Tech,Electronics,6.37,No,,,,Yes,High,Average
+S0488,Student_488,22,Female,B.Tech,Mechanical,9.11,Yes,Deloitte,Software Engineer,24.8,Yes,Medium,Average
+S0489,Student_489,21,Male,MBA,Marketing,6.61,Yes,Microsoft,Software Engineer,7.7,No,Medium,Average
+S0490,Student_490,24,Male,B.Tech,Electronics,8.79,No,,,,Yes,Low,Excellent
+S0491,Student_491,20,Male,B.Sc,Biology,9.54,Yes,Microsoft,Research Scientist,6.4,No,High,Excellent
+S0492,Student_492,21,Male,B.Tech,Mechanical,8.95,Yes,Deloitte,Project Manager,13.2,Yes,High,Good
+S0493,Student_493,24,Other,MBA,Finance,6.92,No,,,,Yes,High,Excellent
+S0494,Student_494,24,Other,BBA,Entrepreneurship,9.9,No,,,,Yes,High,Excellent
+S0495,Student_495,20,Female,MBA,HR,9.48,No,,,,Yes,Low,Good
+S0496,Student_496,21,Other,M.Tech,AI,6.61,Yes,Accenture,Research Scientist,8.0,Yes,High,Good
+S0497,Student_497,23,Other,MBA,HR,8.69,No,,,,No,Low,Good
+S0498,Student_498,25,Other,M.Tech,AI,9.85,Yes,Deloitte,Project Manager,4.6,Yes,Medium,Good
+S0499,Student_499,20,Male,B.Sc,Biology,8.26,Yes,Infosys,Consultant,4.6,No,Medium,Excellent
+S0500,Student_500,24,Male,BBA,Entrepreneurship,9.17,Yes,Accenture,Project Manager,20.1,No,Medium,Average
